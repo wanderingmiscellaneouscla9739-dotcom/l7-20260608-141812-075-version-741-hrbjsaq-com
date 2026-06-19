@@ -1,0 +1,22 @@
+{
+    "movie_records_parsed": 2000,
+    "movie_detail_pages": 2000,
+    "category_pages": 10,
+    "category_covered_movies": 2000,
+    "html_pages": 2015,
+    "html_pages_with_baidu_script": 2015,
+    "image_files_in_zip": 0,
+    "stream_url_count": 20,
+    "category_counts": {
+        "国产影剧": 200,
+        "欧美大片": 201,
+        "日韩剧场": 200,
+        "高清电影": 200,
+        "连续剧集": 200,
+        "悬疑犯罪": 200,
+        "科幻奇幻": 199,
+        "爱情喜剧": 200,
+        "动作热血": 200,
+        "家庭剧情": 200
+    }
+}
